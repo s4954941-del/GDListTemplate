@@ -1,12 +1,18 @@
 {
-    "id": 23262780,
-    "name": "Sakupen Hell",
-    "author": "Riot",
-    "creators": ["Noobas"],
+    "id": 57436521,
+    "name": "Cataclysm",
+    "author": "GgBoy",
+    "creators": ["Riot"],
     "verifier": "UserBotikkk",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "41",
-    "password": "Free To Copy",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
     "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
